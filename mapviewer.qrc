@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>mapviewer.qml</file>
+        <file>map/MapComponent.qml</file>
+        <file>map/Marker.qml</file>
+        <file>map/RectangleItem.qml</file>
+        <file>map/MiniMap.qml</file>
+        <file>forms/Message.qml</file>
+        <file>forms/MessageForm.ui.qml</file>
+        <file>menus/MainMenu.qml</file>
+        <file>menus/MarkerPopupMenu.qml</file>
+        <file>resources/marker.png</file>
+        <file>resources/user.png</file>
+    </qresource>
+</RCC>
